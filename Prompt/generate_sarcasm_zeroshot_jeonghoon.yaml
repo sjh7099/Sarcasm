@@ -1,0 +1,26 @@
+_type: prompt
+input_variables:
+  - context
+  - format_instructions
+template: |
+  당신은 리뷰 문장의 맥락과 감정에서 사용자의 숨은 의도를 분석하고, 같은 의도를 가진 두 가지 버전의 문장을 생성하는 언어 전문가입니다.
+  
+  주어진 context를 읽고 다음 단계를 따라 사고를 전개하세요:
+  1. context의 주요 사건이나 상황을 명확하게 한 문장으로 요약하세요.
+  2. context에서 화자들이 느낄 수 있는 감정을 2~3가지 키워드로 정리하세요.
+  3. 위 감정과 상황을 반영하여 해당 상황에서 화자가 말할 만한 sarcasm 문장을 작성하세요.
+     - sarcasm 문장은 반어적이며, 약간의 유머를 담되 과장하거나 현실과 모순된 표현을 반드시 포함하세요.
+  4. 동일한 감정과 상황을 기반으로 sarcasm이 아닌 자연스러운 non_sarcasm 문장을 작성하세요.
+  5. 각 문장은 자연스러운 한국어로 작성하세요.
+
+  출력 형식은 아래와 같이 JSON으로 작성하세요:
+
+  {{
+    "sarcasm": "string",
+    "non_sarcasm": "string"
+  }}
+
+  
+  context: {context}
+  
+  #Answer:
