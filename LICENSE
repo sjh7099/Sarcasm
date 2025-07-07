@@ -1,0 +1,37 @@
+MIT License
+
+Copyright (c) 2025 Myeonggu-Kang
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+⚠️ NOTE:
+This repository includes or builds upon the "Bllossom" model, which is based on **LLaMA 3.2** developed by Meta AI.
+
+Please note the following important licensing information:
+
+- The LLaMA model and its derivatives, including BlloSSOm, are licensed under Meta's custom **non-commercial license**.
+- Use of this repository **does not grant permission** to use the LLaMA models outside the scope allowed by Meta's license.
+- Refer to Meta's license and acceptable use policy here:  
+  🔗 https://ai.meta.com/resources/models-and-libraries/llama-downloads/
+
+By using this repository, you agree to comply with both:
+1. The terms of the MIT License for this software, and  
+2. The Meta AI License for any use involving LLaMA-derived models.
