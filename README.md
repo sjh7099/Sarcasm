@@ -14,5 +14,10 @@
 - KoBERT 파인튜닝 vs Bllossom 파인튜닝 후 성능 비교
 <img width="386" height="193" alt="스크린샷 2025-07-28 오후 3 00 51" src="https://github.com/user-attachments/assets/8f5b6c98-9af2-433c-997a-2f3f842e5125" />
 
+## Conclusion
+- 프롬프트 기반 데이터 생성 및 다중 도메인 샘플링 전략 입증
+<img width="529" height="228" alt="스크린샷 2025-07-28 오후 3 32 11" src="https://github.com/user-attachments/assets/921de123-9f10-4119-84be-ddb17517350a" />
+
+
 ### Reference
 This repository refers to [KoCoSa: Korean Context-aware Sarcasm Detection Dataset](https://github.com/Yu-billie/KoCoSa_sarcasm_detection), accepted in COLING 2024.
