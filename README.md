@@ -7,7 +7,7 @@
 
 ## 풍자 탐지 데이터 코퍼스 구축
 - prompt engineering을 통한 데이터 구축
-- Chain of Thought 기법 활용
+- Chain of Thought 기법을 통해 체계적 데이터 생성
 <img width="603" height="229" alt="스크린샷 2025-07-28 오후 3 01 08" src="https://github.com/user-attachments/assets/e85599df-16b1-43f7-a19f-5413976c84d2" />
 
 ## 풍자 탐지 LLM 모델 튜닝
